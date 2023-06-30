@@ -113,13 +113,13 @@ class _DemoPageState extends State<DemoPage> {
                 ),
               ),
             ),
-            ElevatedButton(
+            /* ElevatedButton(
                 onPressed: () {
                   setState(() {
                     textvisible = !textvisible;
                   });
                 },
-                child: Text("Hello"))
+                child: Text("Hello"))*/
           ],
         ),
       ),
